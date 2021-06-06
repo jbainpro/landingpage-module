@@ -2,7 +2,6 @@
     "name": "jbainpro/landingpage",
     "type": "laravel-module",
     "description": "",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Nicolas Widart",
