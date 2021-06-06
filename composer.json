@@ -1,0 +1,26 @@
+{
+    "name": "nwidart/landingpage",
+    "type": "laravel-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\LandingPage\\Providers\\LandingPageServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\LandingPage\\": ""
+        }
+    }
+}
